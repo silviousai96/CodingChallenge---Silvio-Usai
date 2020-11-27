@@ -1,0 +1,68 @@
+/* SELETTORE {
+   proprieta: valore;
+   proprieta: valore;
+} */
+body{
+  background-image: url('C:/Users/Silvio/Desktop/codingchallenge/background.jpg');
+  background-size: cover;
+  font-family: arial;
+
+}
+
+.container{
+background-color: rgba(0 0 0 / 50%);
+border-radius: 10px;
+padding-top: 50px;
+padding-bottom: 60px;
+margin-top: 20px;
+margin-left: 110px;
+margin-right: 110px;
+margin-bottom: 50px;
+box-sizing: border-box;
+
+}
+
+header{
+  color: #00CD00;
+  text-align: center;
+}
+
+.bottone{
+  background-color: #00CD00;
+  color: black;
+  padding: 10px;
+  text-align: center;
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+main{
+  color: white;
+  margin-left: 15%;
+}
+
+.nomemonopattino{
+  font-size: 20px;
+}
+
+.statocarica1{
+  color: yellow;
+  background-color: yellow;
+  margin-right: 75%;
+  border-radius: 4px;
+  border: 30px;
+}
+
+.statocarica2{
+  background-color: #00CD00;
+  color: #00CD00;
+  margin-right: 60%;
+  border-radius: 4px;
+}
+
+.statocarica3{
+  background-color: red;
+  color: red;
+  margin-right: 90%;
+  border-radius: 4px;
+}
